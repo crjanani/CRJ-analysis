@@ -1,5 +1,6 @@
 Customer churn analysis - Telco. 
-Electronic check, fibre optic and month to month contract show strong correlation.
-discounts, installation fees or the lack of it has an effect on churn.
-month to month contract and short tenures do correlate with churn.
-model shows a low recall and needs improvement, maybe through more feature engineering.
+EDA and Random Forest Analysis
+Electronic check, fibre optic and month-to-month contracts show a strong correlation.
+Discounts, installation fees and other charges or the lack of it affect churn.
+Month-to-month contracts and short tenures do correlate with churn.
+The random forest model shows a low recall and needs improvement, maybe through more feature engineering.
